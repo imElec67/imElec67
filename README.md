@@ -1,4 +1,4 @@
 <p align="center">
-  ![](https://github.com/imElec67/imElec67/blob/master/generated/overview.svg)
-  ![](https://github.com/imElec67/imElec67/blob/master/generated/languages.svg)
+  <img src="https://github.com/MariusLedig/Github_stats/blob/master/generated/overview.svg" alt="Overview"/>
+  <img src="https://github.com/MariusLedig/Github_stats/blob/master/generated/languages.svg" alt="Languages"/>
 </p>
